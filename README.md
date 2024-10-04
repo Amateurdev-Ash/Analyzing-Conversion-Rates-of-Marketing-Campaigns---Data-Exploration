@@ -33,7 +33,7 @@ The notebook performs the following analysis:
 
 ## Usage
 
-1. Clone the repository: `git clone https://github.com/your-username/bank-marketing-analysis.git`
+1. Clone the repository: `git clone https://github.com/Amateurdev-Ash/bank-marketing-analysis.git`
 2. Install the required libraries: `pip install pandas matplotlib`
 3. Open and run the Jupyter Notebook: `jupyter notebook bank-marketing-analysis.ipynb`
 
